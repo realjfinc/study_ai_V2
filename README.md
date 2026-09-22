@@ -1,6 +1,7 @@
 # Study AI
 
-An AI assistant helper made specifically to assist students. 
+An AI assistant helper made specifically to assist students. Features include the ability to take pictures of homework problems, chat
+directly with AI, question and conversation history.
 
 ## Screenshots
 View on Google Play: https://play.google.com/store/apps/details?id=com.studyaiinc.studyai&hl=en_CA
